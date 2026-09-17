@@ -1,4 +1,42 @@
 {
   "version": 1,
-  "deals": {}
+  "last_updated": "2026-09-17T17:13:22.453179+00:00",
+  "deals": {
+    "gp_3782": {
+      "title": "Shogun Showdown (Epic Games) Giveaway",
+      "worth": "$14.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-09-17T17:13:22.453070+00:00"
+    },
+    "gp_3781": {
+      "title": "Mindcop (Epic Games) Giveaway",
+      "worth": "$14.99",
+      "platforms": "PC, Android, iOS, Epic Games Store",
+      "timestamp": "2026-09-17T17:13:22.453070+00:00"
+    },
+    "gp_3779": {
+      "title": "Space Menace (Steam) Giveaway",
+      "worth": "$6.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-09-17T17:13:22.453070+00:00"
+    },
+    "gp_3778": {
+      "title": "FOR HONOR (Ubisoft) Giveaway",
+      "worth": "$29.99",
+      "platforms": "PC, Ubisoft Connect",
+      "timestamp": "2026-09-17T17:13:22.453070+00:00"
+    },
+    "gp_3776": {
+      "title": "Crystal Crisis (Steam) Giveaway",
+      "worth": "$19.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-09-17T17:13:22.453070+00:00"
+    },
+    "gp_3716": {
+      "title": "Dwarven Realms (Steam) Key Giveaway",
+      "worth": "$9.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-09-17T17:13:22.453070+00:00"
+    }
+  }
 }
