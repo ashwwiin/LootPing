@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-17T17:13:22.453179+00:00",
+  "last_updated": "2026-09-18T21:09:46.866117+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -37,6 +37,12 @@
       "worth": "$9.99",
       "platforms": "PC, Steam",
       "timestamp": "2026-09-17T17:13:22.453070+00:00"
+    },
+    "gp_3784": {
+      "title": "Deadshot (Steam) Giveaway",
+      "worth": "$4.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-09-18T21:09:46.865989+00:00"
     }
   }
 }
