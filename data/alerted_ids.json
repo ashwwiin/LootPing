@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-18T21:09:46.866117+00:00",
+  "last_updated": "2026-09-22T21:36:01.885332+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -43,6 +43,12 @@
       "worth": "$4.99",
       "platforms": "PC, Steam",
       "timestamp": "2026-09-18T21:09:46.865989+00:00"
+    },
+    "gp_3786": {
+      "title": "Truck Town: Kids and Toddlers Driving Game (Steam) Key Giveaway",
+      "worth": "$14.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-09-22T21:36:01.885236+00:00"
     }
   }
 }
