@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-22T21:36:01.885332+00:00",
+  "last_updated": "2026-09-24T17:29:18.656996+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -49,6 +49,18 @@
       "worth": "$14.99",
       "platforms": "PC, Steam",
       "timestamp": "2026-09-22T21:36:01.885236+00:00"
+    },
+    "gp_3790": {
+      "title": "Mechabellum (Epic Games) Giveaway",
+      "worth": "$14.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-09-24T17:29:18.656868+00:00"
+    },
+    "gp_3029": {
+      "title": "Astrea: Six Sided Oracles (Epic Games) Giveaway",
+      "worth": "$24.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-09-24T17:29:18.656868+00:00"
     }
   }
 }
