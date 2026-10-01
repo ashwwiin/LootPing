@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-24T17:29:18.656996+00:00",
+  "last_updated": "2026-10-01T18:32:41.850889+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -61,6 +61,18 @@
       "worth": "$24.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-09-24T17:29:18.656868+00:00"
+    },
+    "gp_3798": {
+      "title": "BURIED STARS (Epic Games) Giveaway",
+      "worth": "$39.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-01T18:32:41.850765+00:00"
+    },
+    "gp_3797": {
+      "title": "System Shock 2: 25th Anniversary Remaster (Epic Games) Giveaway",
+      "worth": "$29.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-01T18:32:41.850765+00:00"
     }
   }
 }
