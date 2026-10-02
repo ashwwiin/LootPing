@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-01T18:32:41.850889+00:00",
+  "last_updated": "2026-10-02T17:59:25.508146+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -73,6 +73,12 @@
       "worth": "$29.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-10-01T18:32:41.850765+00:00"
+    },
+    "gp_3801": {
+      "title": "Bounty Train (GOG) Giveaway",
+      "worth": "$9.99",
+      "platforms": "PC, GOG, DRM-Free",
+      "timestamp": "2026-10-02T17:59:25.508036+00:00"
     }
   }
 }
