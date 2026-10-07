@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-02T17:59:25.508146+00:00",
+  "last_updated": "2026-10-07T14:35:48.222328+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -79,6 +79,12 @@
       "worth": "$9.99",
       "platforms": "PC, GOG, DRM-Free",
       "timestamp": "2026-10-02T17:59:25.508036+00:00"
+    },
+    "gp_3804": {
+      "title": "Spooky Cats Steam Key Giveaway",
+      "worth": "$2.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-10-07T14:35:48.222167+00:00"
     }
   }
 }
