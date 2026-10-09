@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-08T18:58:40.357208+00:00",
+  "last_updated": "2026-10-09T18:28:37.148895+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -103,6 +103,12 @@
       "worth": "$9.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-10-08T18:58:40.357087+00:00"
+    },
+    "gp_3810": {
+      "title": "Fireside Feelings (Steam) Giveaway",
+      "worth": "$7.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-10-09T18:28:37.148784+00:00"
     }
   }
 }
