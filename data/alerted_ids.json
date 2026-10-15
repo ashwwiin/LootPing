@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-09T18:28:37.148895+00:00",
+  "last_updated": "2026-10-15T17:16:58.680665+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -109,6 +109,18 @@
       "worth": "$7.99",
       "platforms": "PC, Steam",
       "timestamp": "2026-10-09T18:28:37.148784+00:00"
+    },
+    "gp_3817": {
+      "title": "Agent A: A puzzle in disguise (Epic Games) Giveaway",
+      "worth": "$19.99",
+      "platforms": "PC, Android, iOS, Epic Games Store",
+      "timestamp": "2026-10-15T17:16:58.680548+00:00"
+    },
+    "gp_3816": {
+      "title": "Bad Cheese (Epic Games) Giveaway",
+      "worth": "$12.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-15T17:16:58.680548+00:00"
     }
   }
 }
