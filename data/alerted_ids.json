@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-19T18:48:40.162883+00:00",
+  "last_updated": "2026-10-21T21:55:36.149869+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -127,6 +127,12 @@
       "worth": "$1.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-10-19T18:48:40.162766+00:00"
+    },
+    "gp_3822": {
+      "title": "Terraspace (Epic Games) Giveaway",
+      "worth": "$7.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-21T21:55:36.149746+00:00"
     }
   }
 }
