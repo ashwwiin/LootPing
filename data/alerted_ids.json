@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-21T21:55:36.149869+00:00",
+  "last_updated": "2026-10-22T17:31:49.796108+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -133,6 +133,18 @@
       "worth": "$7.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-10-21T21:55:36.149746+00:00"
+    },
+    "gp_3824": {
+      "title": "Sker Ritual (Epic Games) Giveaway",
+      "worth": "$19.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-22T17:31:49.795994+00:00"
+    },
+    "gp_3823": {
+      "title": "Home (Epic Games) Giveaway",
+      "worth": "$4.99",
+      "platforms": "PC, Android, iOS, Epic Games Store",
+      "timestamp": "2026-10-22T17:31:49.795994+00:00"
     }
   }
 }
