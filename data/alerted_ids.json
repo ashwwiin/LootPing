@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-25T16:42:37.508599+00:00",
+  "last_updated": "2026-10-29T18:37:13.173386+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -151,6 +151,18 @@
       "worth": "$1.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-10-25T16:42:37.508472+00:00"
+    },
+    "gp_3834": {
+      "title": "Hexologic (Steam) Giveaway",
+      "worth": "$4.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-10-29T18:37:13.173271+00:00"
+    },
+    "gp_3426": {
+      "title": "Sorry We're Closed (Epic Games) Giveaway",
+      "worth": "$24.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-29T18:37:13.173271+00:00"
     }
   }
 }
