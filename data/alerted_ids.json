@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-29T18:37:13.173386+00:00",
+  "last_updated": "2026-10-30T18:09:16.936864+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -163,6 +163,18 @@
       "worth": "$24.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-10-29T18:37:13.173271+00:00"
+    },
+    "gp_3836": {
+      "title": "Asleep: Act 1 (Steam) Giveaway",
+      "worth": "$9.99",
+      "platforms": "PC, Steam",
+      "timestamp": "2026-10-30T18:09:16.936743+00:00"
+    },
+    "gp_3835": {
+      "title": "A New Beginning: Final Cut (GOG) Giveaway",
+      "worth": "$9.99",
+      "platforms": "PC, GOG, DRM-Free",
+      "timestamp": "2026-10-30T18:09:16.936743+00:00"
     }
   }
 }
