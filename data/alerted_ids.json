@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-30T18:09:16.936864+00:00",
+  "last_updated": "2026-10-31T21:49:14.699488+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -175,6 +175,18 @@
       "worth": "$9.99",
       "platforms": "PC, GOG, DRM-Free",
       "timestamp": "2026-10-30T18:09:16.936743+00:00"
+    },
+    "gp_3838": {
+      "title": "Gladiator: Blades of Fury (Epic Games) Giveaway",
+      "worth": "$9.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-31T21:49:14.699372+00:00"
+    },
+    "gp_3837": {
+      "title": "Quiztopia: The Ultimate Trivia (Epic Games) Giveaway",
+      "worth": "$7.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-10-31T21:49:14.699372+00:00"
     }
   }
 }
