@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T21:49:14.699488+00:00",
+  "last_updated": "2026-11-01T18:03:26.184356+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -187,6 +187,18 @@
       "worth": "$7.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-10-31T21:49:14.699372+00:00"
+    },
+    "gp_3839": {
+      "title": "Epic World - Hunt For Quest (Epic Games) Giveaway",
+      "worth": "$6.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-11-01T18:03:26.184275+00:00"
+    },
+    "cs_TztHEOMN7KA2ZT1dgR5ao0Wqg1kI4bzZ1vtxjJ50kxI%3D": {
+      "title": "Epic World - Hunt For Quest",
+      "worth": "$6.99",
+      "platforms": "PC (PC Store)",
+      "timestamp": "2026-11-01T18:03:26.184275+00:00"
     }
   }
 }
