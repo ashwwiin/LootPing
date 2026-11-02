@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-01T22:16:15.619642+00:00",
+  "last_updated": "2026-11-02T21:52:44.496647+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -205,6 +205,18 @@
       "worth": "$9.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-11-01T22:16:15.619540+00:00"
+    },
+    "gp_3842": {
+      "title": "Highway Driving (Epic Games) Giveaway",
+      "worth": "$9.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-11-02T21:52:44.496537+00:00"
+    },
+    "gp_3841": {
+      "title": "Dark Mystery (Epic Games) Giveaway",
+      "worth": "$7.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-11-02T21:52:44.496537+00:00"
     }
   }
 }
