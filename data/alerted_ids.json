@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-04T19:58:19.853750+00:00",
+  "last_updated": "2026-11-05T20:13:02.663136+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -223,6 +223,12 @@
       "worth": "$6.99",
       "platforms": "PC, Steam",
       "timestamp": "2026-11-04T19:58:19.853633+00:00"
+    },
+    "gp_3845": {
+      "title": "Flotsam (Epic Games) Giveaway",
+      "worth": "$24.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-11-05T20:13:02.663032+00:00"
     }
   }
 }
