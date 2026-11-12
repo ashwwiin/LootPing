@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-06T19:38:28.602692+00:00",
+  "last_updated": "2026-11-12T20:19:18.036099+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -235,6 +235,12 @@
       "worth": "$9.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-11-06T19:38:28.602557+00:00"
+    },
+    "gp_3850": {
+      "title": "Knightica (Epic Games) Giveaway",
+      "worth": "$14.99",
+      "platforms": "PC, Android, iOS, Epic Games Store",
+      "timestamp": "2026-11-12T20:19:18.035983+00:00"
     }
   }
 }
