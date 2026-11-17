@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-12T20:19:18.036099+00:00",
+  "last_updated": "2026-11-17T21:15:39.756908+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -241,6 +241,12 @@
       "worth": "$14.99",
       "platforms": "PC, Android, iOS, Epic Games Store",
       "timestamp": "2026-11-12T20:19:18.035983+00:00"
+    },
+    "gp_3852": {
+      "title": "Contractor: The Clean Up Part 2 (Epic Games) Giveaway",
+      "worth": "$4.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-11-17T21:15:39.756751+00:00"
     }
   }
 }
