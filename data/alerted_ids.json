@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-17T21:15:39.756908+00:00",
+  "last_updated": "2026-11-19T20:54:32.355615+00:00",
   "deals": {
     "gp_3782": {
       "title": "Shogun Showdown (Epic Games) Giveaway",
@@ -247,6 +247,12 @@
       "worth": "$4.99",
       "platforms": "PC, Epic Games Store",
       "timestamp": "2026-11-17T21:15:39.756751+00:00"
+    },
+    "gp_3853": {
+      "title": "Mark of the Deep (Epic Games) Giveaway",
+      "worth": "$19.99",
+      "platforms": "PC, Epic Games Store",
+      "timestamp": "2026-11-19T20:54:32.355543+00:00"
     }
   }
 }
